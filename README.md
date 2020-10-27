@@ -4,7 +4,8 @@ pip install python-dotenv
 pip install flask-wtf  
 pip install flask-sqlalchemy  
 pip install flask-migrate  
-pip install flask-login
+pip install flask-login  
+pip install email-validator
 
 ## Errors Encountered
 error: _Instance of 'SQLAlchemy has no 'Column' member(no-member)_  
